@@ -1,9 +1,6 @@
 # reveil-detecteur-mouvement
 Construction un réveil muni d'un détecteur de mouvement avec un carte Arduino et le langage C++. Pour l'éteindre, il faut rester en mouvement face au détecteur pendant au moins 15 secondes.
 
-![L'atelier...]([https://framasoft.org/nav/img/logo.png](https://github.com/jlostanlen/reveil-detecteur-mouvement/blob/main/IMG_0380%202%20(1)%20Medium.jpeg))
-
-
 ## Matériel utilisé : 
 * Carte Arduino Uno
 * Écran LCD
